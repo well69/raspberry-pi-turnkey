@@ -1,3 +1,6 @@
+Everything below is from the original.  The only point of this "fork" is to change a few words around to customize it for PicoChess
+
+
 # Raspberry Pi Turnkey
 
 Have you ever wanted to setup a Raspberry Pi *without having to SSH or attach a keyboard* to add your WiFi credentials? This is particularly useful when you are making a Raspberry Pi that needs to be deployed somewhere where supplying the credentials via SSH or attaching a keyboard isn't an option. Or it could be useful if you take your Pi to a friend's house and they don't have ethernet cables or extra keyboards+monitors to put your friend's WiFi credentials onto the Pi. With this image base you don't ever need to modify a `wpa_supplicant` with SSH/terminal/PiBakery again!
